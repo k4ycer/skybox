@@ -1,4 +1,7 @@
 ﻿  main.cpp
 c:\users\eduardo torres\source\repos\teapot2\teapot2\shader_m.h(65): warning C4101: 'infoLog': unreferenced local variable
 c:\users\eduardo torres\source\repos\teapot2\teapot2\shader_m.h(64): warning C4101: 'success': unreferenced local variable
+c:\users\eduardo torres\source\repos\teapot2\teapot2\main.cpp(478): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\eduardo torres\source\repos\teapot2\teapot2\main.cpp(480): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\eduardo torres\source\repos\teapot2\teapot2\main.cpp(481): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
   teapot2.vcxproj -> C:\Users\Eduardo Torres\source\repos\teapot2\Debug\teapot2.exe
