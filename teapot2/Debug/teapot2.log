@@ -1,0 +1,16 @@
+﻿  main.cpp
+c:\users\eduardo torres\source\repos\teapot2\teapot2\shader.h(66): warning C4101: 'infoLog': unreferenced local variable
+c:\users\eduardo torres\source\repos\teapot2\teapot2\shader.h(65): warning C4101: 'success': unreferenced local variable
+c:\users\eduardo torres\source\repos\teapot2\teapot2\main.cpp(432): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\eduardo torres\source\repos\teapot2\teapot2\main.cpp(434): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\eduardo torres\source\repos\teapot2\teapot2\main.cpp(435): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\eduardo torres\source\repos\teapot2\teapot2\main.cpp(599): warning C4101: 'in': unreferenced local variable
+c:\users\eduardo torres\source\repos\teapot2\teapot2\main.cpp(648): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\eduardo torres\source\repos\teapot2\teapot2\main.cpp(649): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\eduardo torres\source\repos\teapot2\teapot2\main.cpp(650): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\eduardo torres\source\repos\teapot2\teapot2\main.cpp(678): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\eduardo torres\source\repos\teapot2\teapot2\main.cpp(679): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\eduardo torres\source\repos\teapot2\teapot2\main.cpp(680): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\eduardo torres\source\repos\teapot2\teapot2\main.cpp(681): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\eduardo torres\source\repos\teapot2\teapot2\main.cpp(644): warning C4715: 'leerArchivo': not all control paths return a value
+  teapot2.vcxproj -> C:\Users\Eduardo Torres\source\repos\teapot2\Debug\teapot2.exe
